@@ -4,7 +4,7 @@
 **manoela-fs/manoela-fs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 !-->
 
-Bem-vindo(a) ao meu perfil do GitHub! Eu sou Manoela. Tenho formação técnica em informática e atualmente estou cursando Ciência da Computação no IFSC (Instituto Federal de Santa Catarina).
+ Olá! Sou a Manoela, uma desenvolvedora apaixonada por tecnologia e programação. Seja bem-vindo(a) ao meu perfil do GitHub, onde compartilho meus projetos, experiências e aprendizados na área de desenvolvimento de software.
 
 ### Habilidades
 💻 C#
