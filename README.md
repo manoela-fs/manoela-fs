@@ -1,16 +1,25 @@
-### Hi there 👋
+### Manoela Fernandes Simão
 
 <!--
 **manoela-fs/manoela-fs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Introdução
+Bem-vindo(a) ao meu perfil do GitHub! Eu sou Manoela. Tenho formação técnica em informática e atualmente estou cursando Ciência da Computação no IFSC (Instituto Federal de Santa Catarina).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Habilidades
+💻 C#
+☕ Java
+🌐 JavaScript
+🐘 PHP
+🚀 Laravel
+🗄️ MySQL
+🐬 MariaDB
+
+Formação
+👩‍🎓 Atualmente cursando Ciência da Computação no IFSC (Instituto Federal de Santa Catarina)
+🎓 Concluído curso técnico em informática
+
+Contato
+Você pode entrar em contato comigo pelos seguintes canais:
+
+✉️ Email: manoelafernandes25@gmail.com
