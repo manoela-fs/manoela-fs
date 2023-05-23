@@ -10,10 +10,15 @@
 💻 C#
 
 ☕ Java
+
 🌐 JavaScript
+
 🐘 PHP
+
 🚀 Laravel
+
 🗄️ MySQL
+
 🐬 MariaDB
 
 ### Formação
