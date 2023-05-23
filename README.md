@@ -27,4 +27,5 @@
 
 ✉️ Email: manoelafernandes25@gmail.com
 
+ <script src="script.js"></script>
 
