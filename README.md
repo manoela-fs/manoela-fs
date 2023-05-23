@@ -8,12 +8,12 @@
 
 ### Habilidades
 <ul>
-  <li>💻 C#</li>
-  <li>☕ Java</li>
-  <li>🌐 JavaScript</li>
-  <li>🐘 PHP</li>
-  <li>🚀 Laravel</li>
-  <li>🗄️ MySQL</li>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20" height="20"/>  C#</li>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" height="20" /> Java</li>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/>  JavaScript</li>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20" height="20"/> PHP</li>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="20" height="20"/>  Laravel</li>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="20" height="20"/>  MySQL</li>
 </ul>
 
 ### Formação
