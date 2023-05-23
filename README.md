@@ -1,18 +1,21 @@
 <!--
 **manoela-fs/manoela-fs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 !-->
-<div class="tenor-gif-embed" data-postid="24946423" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/nyan-cat-gif-24946423">Nyan Cat GIF</a>from <a href="https://tenor.com/search/nyan+cat-gifs">Nyan Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+<div>
+  <img src="nyan-cat.mp4"/>
+</div>
 
  Olá! Sou a Manoela, uma desenvolvedora iniciante na área de tecnologia e programação. Seja bem-vindo(a) ao meu perfil do GitHub, onde compartilho meus projetos, experiências e aprendizados na área de desenvolvimento de software.
 
 ### Habilidades
 <ul>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20" height="20"/>  C#</li>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20" height="20"/></li>
   <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" height="20" /> Java</li>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/>  JavaScript</li>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20" height="20"/> PHP</li>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="20" height="20"/>  Laravel</li>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="20" height="20"/>  MySQL</li>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/></li>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20" height="20"/></li>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="20" height="20"/></li>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="20" height="20"/></li>
 </ul>
 
 ### Formação
@@ -25,5 +28,4 @@
 
 ✉️ Email: manoelafernandes25@gmail.com
 
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
