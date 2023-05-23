@@ -9,7 +9,7 @@
 ### Habilidades
 💻 C#
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> Java
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="with: 5%; height:5%;"/> Java
 🌐 JavaScript
 🐘 PHP
 🚀 Laravel
