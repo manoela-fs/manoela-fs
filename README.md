@@ -7,26 +7,22 @@
  Olá! Sou a Manoela, uma desenvolvedora iniciante na área de tecnologia e programação. Seja bem-vindo(a) ao meu perfil do GitHub, onde compartilho meus projetos, experiências e aprendizados na área de desenvolvimento de software.
 
 ### Habilidades
-💻 C
-
-☕ Java
-
-🌐 JavaScript
-
-🐘 PHP
-
-🚀 Laravel
-
-🗄️ MySQL
-
-🐬 MariaDB
+<ul>
+  <li>💻 C#</li>
+  <li>☕ Java</li>
+  <li>🌐 JavaScript</li>
+  <li>🐘 PHP</li>
+  <li>🚀 Laravel</li>
+  <li>🗄️ MySQL</li>
+</ul>
 
 ### Formação
-👩‍🎓 Atualmente cursando Ciência da Computação - Instituto Federal de Santa Catarina
-🎓 Concluído curso técnico em informática - CEDUP Renato Ramos da Silva
+<ul>
+  <li>Cursando Ciência da Computação - Instituto Federal de Santa Catarina</li>
+  <li>Concluído curso técnico em informática - CEDUP Renato Ramos da Silva</li>
+</ul>
 
 ### Contato
-Você pode entrar em contato comigo pelos seguintes canais:
 
 ✉️ Email: manoelafernandes25@gmail.com
 
