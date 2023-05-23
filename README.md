@@ -7,12 +7,18 @@
  Olá! Sou a Manoela, uma desenvolvedora iniciante na área de tecnologia e programação. Seja bem-vindo(a) ao meu perfil do GitHub, onde compartilho meus projetos, experiências e aprendizados na área de desenvolvimento de software.
 
 ### Habilidades
-💻 C#
+💻 C
+
 ☕ Java
+
 🌐 JavaScript
+
 🐘 PHP
+
 🚀 Laravel
+
 🗄️ MySQL
+
 🐬 MariaDB
 
 ### Formação
