@@ -1,9 +1,7 @@
 <!--
 **manoela-fs/manoela-fs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 !-->
-<section class="header">
-  <canvas id="matrix"></canvas>
-</section>
+<div class="tenor-gif-embed" data-postid="24946423" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/nyan-cat-gif-24946423">Nyan Cat GIF</a>from <a href="https://tenor.com/search/nyan+cat-gifs">Nyan Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
  Olá! Sou a Manoela, uma desenvolvedora iniciante na área de tecnologia e programação. Seja bem-vindo(a) ao meu perfil do GitHub, onde compartilho meus projetos, experiências e aprendizados na área de desenvolvimento de software.
 
@@ -27,5 +25,5 @@
 
 ✉️ Email: manoelafernandes25@gmail.com
 
- <script src="script.js"></script>
+<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
