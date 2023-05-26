@@ -16,6 +16,7 @@
 ### Formação
 <ul>
   <li>Cursando Ciência da Computação - Instituto Federal de Santa Catarina</li>
+  <li>Cursando Técnico em Informática para Internet - Instituto Federal de Santa Catarina</li>
   <li>Concluído curso técnico em informática - CEDUP Renato Ramos da Silva</li>
 </ul>
 
